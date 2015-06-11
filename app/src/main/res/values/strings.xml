@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServicePlayingMusic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="songPlaying">My Song</string>
+    <string name="action_settings">Settings</string>
+</resources>
